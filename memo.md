@@ -1,3 +1,7 @@
+# 📝 2023/07/05
+
+[【Python】requestsを使うときは必ずtimeoutを設定するべき | Cosnomi Blog](https://blog.cosnomi.com/posts/1259/)
+
 # 📝 2023/07/04
 
 
